@@ -1,26 +1,35 @@
 <div align="center">
-  <img src="./github-banner.png" alt="AI and data workspace banner" width="100%" />
-</div>
-<br>
-<div align="center">
+
 # Hi, I'm Manali Rathod 👋
 
 ### Master's in Computer Science | AI/ML, Agentic AI, Data, and Full-Stack Applications
 
 I’m not trying to build projects just to add another tech stack to my profile. I like building tools that start from a real problem, messy data, confusing workflows, repeated manual work, or something people struggle to understand, and then turning that into a simple application that feels useful.
-<br>
-<div align="left">
-
-## 🌿 A Little About Me
-
-* Master's in Computer Science from Indiana University Bloomington
-* I work across AI/ML, Agentic AI, data, and full-stack development
-* I enjoy building projects that have a real reason behind them, not just features for the sake of features
-* Most of my work connects Python, React, dashboards, data workflows, and AI-based logic
-* I care about making applications clear, usable, and practical for the person using them
 
 </div>
 
+<br>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 🌿 A Little About Me
+
+- Master's in Computer Science from Indiana University Bloomington
+- I work across AI/ML, Agentic AI, data, and full-stack development
+- I enjoy building projects that have a real reason behind them, not just features for the sake of features
+- Most of my work connects Python, React, dashboards, data workflows, and AI-based logic
+- I care about making applications clear, usable, and practical for the person using them
+
+</td>
+<td width="42%" valign="top">
+
+<img src="./github-banner.png" alt="AI and data workspace" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ## 💡 What I Work On
 
