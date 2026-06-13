@@ -31,13 +31,13 @@ I’m not trying to build projects just to add another tech stack to my profile.
 </tr>
 </table>
 
-## 💡 What I Work On
+## 💡 Problems I Like To Build Around
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI and Agent-Based Applications
+### 🤖 AI and Agentic Applications
 
 I work on AI applications that use reasoning, fallback logic, and practical workflows instead of only simple prompts.
 
@@ -61,7 +61,7 @@ I create web applications with simple user flows using React, TypeScript, Fireba
 </td>
 <td width="50%">
 
-### 📈 Dashboards and Analytics
+### 📈 Data Dashboards and Analytics
 
 I build dashboards that make patterns easier to understand across healthcare, business, and research data.
 
@@ -71,7 +71,7 @@ I build dashboards that make patterns easier to understand across healthcare, bu
 
 ---
 
-## 🧠 Areas I Work In
+## 🧠 Tools And Skills I Use To Build
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ I build dashboards that make patterns easier to understand across healthcare, bu
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-Machine Learning, Generative AI, Agentic AI, LLMs, NLP, Prompt Engineering, LangChain, AI Agents, Model Evaluation
+Machine Learning, Generative AI, Agentic AI, LLMs, NLP, Prompt Engineering, LangChain, AI Agents, RAG, Model Evaluation
 
 </td>
 
@@ -132,19 +132,19 @@ SQL, MySQL, PostgreSQL, MongoDB, Firebase, SQLite, Git, GitHub, Docker, Kubernet
 
 ## 🚀 Current Direction
 
-- Building stronger agentic AI applications with real use cases
-- Improving applied machine learning and data-driven projects
-- Creating research and lab-focused data tools
-- Building full-stack applications with clean workflows
-- Writing better project documentation and README files
+- Building agentic AI applications that can reason, respond, and still work when full AI support is not available
+- Improving applied machine learning projects with clearer problem framing and better explanation
+- Creating data tools for research, lab workflows, and CSV-based analysis
+- Building full-stack applications with simple user flows and practical features
+- Writing cleaner project documentation so others can understand the purpose, setup, and result
 
 </div>
 
 ## 💡 How I Think About Projects
 
-I try to build projects that have a clear reason behind them.
+I like projects that start with a real reason.
 
-For me, a good project is not only about using a technology. It should solve a small real problem, make a workflow easier, or help someone understand information better.
+For me, the goal is not just to use a new tool or framework. The project should make a task easier, explain data better, reduce manual work, or help someone move through a workflow with less confusion.
 
 That is the kind of work I want my GitHub to show.
 
