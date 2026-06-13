@@ -1,5 +1,8 @@
 <div align="center">
-
+  <img src="./github-banner.png" alt="AI and data workspace banner" width="100%" />
+</div>
+<br>
+<div align="center">
 # Hi, I'm Manali Rathod 👋
 
 ### Master's in Computer Science | AI/ML, Agentic AI, Data, and Full-Stack Applications
